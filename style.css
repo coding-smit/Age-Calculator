@@ -1,0 +1,48 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #060606;
+  font-family:'Times New Roman', Times, serif
+}
+
+
+h2 {
+    text-align: center;
+}
+#form {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(247, 246, 246, 0.1);
+
+
+}
+
+#date {
+border-radius: 8px;
+/* margin-top: 22px;
+margin-left: 25px; */
+padding: 12px;
+font-family: Arial, Helvetica, sans-serif;
+width: 280px;
+
+}
+#btn-cal {
+    padding-right: 40%;
+    padding-left: 40%;
+}
+.list-tag {
+    display: flex;
+}
+#label {
+    font-size :25px;
+    font-family:Arial, Helvetica, sans-serif
+}
+#total {
+    font-size: 25px;
+}
