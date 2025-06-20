@@ -1,4 +1,4 @@
-# 💰 Tip Calculator
+# 💰 Age Calculator
 
 A simple and responsive **Tip Calculator** built using **HTML, CSS, Bootstrap, and JavaScript**.  
 Easily calculate the tip amount and split the bill between people.
